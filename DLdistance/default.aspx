@@ -7,8 +7,8 @@
     <title>Damerau Levenstein Distance between two words</title>
     <script src="~/Scripts/bootstrap.js"></script>
     <link rel="stylesheet" type="text/css" href="~/content/bootstrap.css" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-</head>
+    <script src="~/Scripts/jquery-3.1.1.js"></script>
+</head>    
 <body style="background-color:blue">
     <div class="container body-content">
         <div class="jumbotron">
