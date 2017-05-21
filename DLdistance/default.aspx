@@ -16,7 +16,7 @@
             <div class="page-header text-center">
                 <h2>Find the D-L Distance between two words</h2>
             </div>
-            <p class="text-center"><strong> is just an example of an ASP.NET/C# Webforms application that calculates the Damerau-Levenshtein Distance between to words. Enter two words and click Calculate and the D-L distance will be calcultated for you.<br /><br />The higher the number, the more the words differ, starting from 0 (zero) if the words are identical. Enjoy!</strong></p>
+            <p class="text-center"><strong>This page is just an example of an ASP.NET/C# Webforms application that calculates the Damerau-Levenshtein Distance between to words. Enter two words and click Calculate and the D-L distance will be calcultated for you.<br /><br />The higher the number, the more the words differ, starting from 0 (zero) if the words are identical. Enjoy!</strong></p>
             <form  id="form1" runat="server">
                 <div class="form-group"><strong>
                     <label for="word1">First Word: </label>
