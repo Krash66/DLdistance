@@ -8,7 +8,8 @@
     <script src="~/Scripts/bootstrap.js"></script>
     <link rel="stylesheet" type="text/css" href="~/content/bootstrap.css" />
     <script src="~/Scripts/jquery-3.1.1.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
 </head>    
 <body style="background-color:#8cbefc">
     <div class="container body-content">

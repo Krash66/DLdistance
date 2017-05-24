@@ -1,14 +1,14 @@
 ﻿using System;
 
-
 namespace DLdistance
 {
     public partial class _default : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            
+            Response.Write("<script>alert('Welcome to the D-L Calculator')</script>");
         }
+
         protected void Submit_Form1(object form1, EventArgs e)
         {
             String inWord1 = word1.Text;
@@ -16,6 +16,7 @@ namespace DLdistance
 
             Answer.Text = CalculateDL(inWord1, inWord2);
         }
+
         public static string CalculateDL(string w1, string w2)
         {
             //    ' ... Here is the algorithm  ... converted this to C# below
