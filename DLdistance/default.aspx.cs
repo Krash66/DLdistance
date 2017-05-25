@@ -114,7 +114,7 @@ namespace DLdistance
                     };
                 };
                 // The Damerau-Levenshtein Distance is now the last entry in the Matrix
-                Distance = "The D-L Distance between " + w1 + " and " + w2 + " is: " + Dmatrix[w1.Length, w2.Length].ToString();
+                Distance = "The D-L Dist. for " + w1 + " and " + w2 + " is: " + Dmatrix[w1.Length, w2.Length].ToString();
                 return Distance;
             }
             catch (System.Exception)
