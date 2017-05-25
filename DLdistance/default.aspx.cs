@@ -6,7 +6,7 @@ namespace DLdistance
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Response.Write("<script>alert('Welcome to the D-L Calculator')</script>");
+            //Response.Write("<script>alert('Welcome to the D-L Calculator')</script>");
         }
 
         protected void Submit_Form1(object form1, EventArgs e)
